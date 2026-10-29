@@ -12,13 +12,13 @@ The project started as Alex The Analyst's guided Power BI project. After finishi
 
 Who answered the survey, where they live, what they earn by job title and industry, their favourite programming tools, and how hard it was for them to break into data.
 
-![Survey Overview](images/survey-overview.png)
+![Survey Overview](images/survey%20overview)
 
 ### Page 2: Career & Workplace Insights
 
 A comparison of people who switched careers into data with people who started there: their roles, salary bands, job-search priorities and satisfaction at work.
 
-![Career & Workplace Insights](images/career-workplace-insights.png)
+![Career & Workplace Insights](images/career%20workplace%20insights)
 
 ### Video walkthrough
 
@@ -28,7 +28,7 @@ A short demo of the slicers, chart interactions and page navigation:
 
 ### Try it yourself
 
-Download [`Data_Professional_Survey_Dashboard.pbix`](Data_Professional_Survey_Dashboard.pbix) and open it in [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (free). Use the buttons at the top right to switch between the two pages.
+Download [`Data_Professional_Survey_Dashboard.pbix`](Data_Professional_Survey_Dashboard2.pbix) and open it in [Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop) (free). Use the buttons at the top right to switch between the two pages.
 
 ## Questions I wanted to answer
 
