@@ -12,13 +12,13 @@ The project started as Alex The Analyst's guided Power BI project. After finishi
 
 Who answered the survey, where they live, what they earn by job title and industry, their favourite programming tools, and how hard it was for them to break into data.
 
-![Survey Overview](images/survey%20overview)
+![Survey Overview](images/survey-overview.png.png)
 
 ### Page 2: Career & Workplace Insights
 
 A comparison of people who switched careers into data with people who started there: their roles, salary bands, job-search priorities and satisfaction at work.
 
-![Career & Workplace Insights](images/career%20workplace%20insights)
+![Career & Workplace Insights](images/career-workplace-insights.png.png)
 
 ### Video walkthrough
 
